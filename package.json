@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrzegorzBanaszak/unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrzegorzBanaszak/unit-testing/issues"
+  },
+  "homepage": "https://github.com/GrzegorzBanaszak/unit-testing#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
