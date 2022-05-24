@@ -10,6 +10,9 @@ const functions = {
     }
     return subString;
   },
+  formatPostCode: (postCode) => {
+    return postCode.substr(0, 2) + "-" + postCode.substr(2);
+  },
 };
 
 module.exports = functions;
